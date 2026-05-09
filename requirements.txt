@@ -1,0 +1,6 @@
+streamlit
+google-genai
+pandas
+requests
+psycopg2-binary
+pymongo
