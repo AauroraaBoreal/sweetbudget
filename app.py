@@ -482,5 +482,3 @@ with tab_historial:
             st.exception(e)
 
 
-with tab_stack:
-    mostrar_stack_tecnologico()
