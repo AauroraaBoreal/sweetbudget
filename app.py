@@ -348,10 +348,9 @@ except Exception as e:
     st.exception(e)
 
 
-tab_busqueda, tab_historial, tab_stack = st.tabs([
+tab_busqueda, tab_historial = st.tabs([
     "🔎 Buscar postres",
     "📋 Historial",
-    "🧩 Stack tecnológico"
 ])
 
 
